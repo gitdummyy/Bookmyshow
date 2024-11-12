@@ -1,0 +1,15 @@
+{
+    "movieId": "mov001",
+    "movieName": "Inception",
+    "moviePrice": 300,
+    "showTime": [
+        {
+            "showTime": "2PM",
+            "seats": 100
+        },
+        {
+            "showTime": "5PM",
+            "seats": 120
+        }
+    ]
+}

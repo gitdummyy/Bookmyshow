@@ -1,0 +1,11 @@
+{
+    "movieId": "mov001",
+    "movieName": "Indian",
+    "showTime": [
+        {
+            "showTime": "2PM",
+            "seats": 70
+        }
+    ],
+    "moviePrice": 120
+}

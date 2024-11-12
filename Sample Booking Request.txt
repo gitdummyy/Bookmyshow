@@ -1,0 +1,12 @@
+{
+    "userId": "USR67890",
+    "movieId": "mov001",
+    "showTime": "2PM",
+    "numberOfTickets": 3,
+    "paymentMethod": "credit_card",
+    "cardDetails": {
+        "cardNumber": "4111111111111111",
+        "expiryDate": "12/25",
+        "cvv": "123"
+    }
+}
