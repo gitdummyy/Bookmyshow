@@ -112,6 +112,7 @@ public class BookingService {
 			throw new CinemaNotFoundException("Cinema with Cinema Id: " + cinemaId + "is not found");
 		cinemaRepo.deleteById(cinemaId);
 		return "Deleted Cinema";
+                           System.out.println("GIT");
 	}
 	
 	/*******************************************
